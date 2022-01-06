@@ -9,6 +9,7 @@ public class FinalArray {
 		
 		TEAMS[0] = 15;
 		System.out.println(TEAMS[0]);
+	
 		
 		int[] nums = new int[] {20,20,40};
 		nums = new int[] {30,30,50};
